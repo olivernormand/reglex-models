@@ -11,7 +11,8 @@ Duties on a local authority include:
 1. A requirement for the local authority to do something.
 2. A requirement for an employee within the local authority to do something.
 3. A conditional requirement for a local authority or employee to do something.
-3. An expansion of existing responsibilities of the local authority to additional people or categories.
+4. An expansion of existing responsibilities of the local authority to additional people or categories.
+5. Where a local authority has an enforcement or compliance role for another organisation.
 
 Duties on a local authority do not include:
 1. Definitional statements
@@ -25,6 +26,9 @@ Sometimes you many not be sure whether there is a duty in the provided regulatio
 
 ###### Look for additions to existing duties
 Some SIs add people to groups that authorities already have responsibilities for, rather than creating entirely new duties. You should still flag these as duties.
+
+###### Enforcement or compliance role
+TODO.
 
 <legislation>
 {legislation}
