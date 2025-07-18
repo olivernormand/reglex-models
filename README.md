@@ -9,10 +9,10 @@ This repository contains Pydantic models and prompts for extracting regulatory d
 - **ShouldExtractDuty**: Decision model for determining whether a regulation contains extractable duties
 - **Themes**: Model for grouping related duties into thematic categories
 
-### Prompts (`prompts.py`)
-- **SHOULD_EXTRACT_DUTY_PROMPT**: Determines whether a regulation contains extractable duties
-- **EXTRACT_DUTY_PROMPT**: Extracts detailed duty information from regulations
-- **SUMMARY_PROMPT**: Summarizes high-level themes and requirements from statutory instruments
+### Prompts
+- **SHOULD_EXTRACT_PROMPT.md**: Determines whether a regulation contains extractable duties
+- **EXTRACT_DUTY_PROMPT.md**: Extracts detailed duty information from regulations
+- **THEME_PROMPT.md**: Summarizes high-level themes and requirements from statutory instruments
 
 ## Purpose
 
